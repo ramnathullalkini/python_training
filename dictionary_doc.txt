@@ -1,1 +1,2 @@
-hi
+Online Dictionary
+	This project is a online dictionary where one can get meaning for any word, and the mail goes to user with word and meaning.
