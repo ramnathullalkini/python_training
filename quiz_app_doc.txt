@@ -1,0 +1,10 @@
+Quiz Web Application Using Django And REST API
+
+Features of the project include
+
+1)There are two quizzes
+2)Access the quiz by Login/Registration
+3)Each quiz consist of 10 Question
+4)Negative marking includes for wrong question
+5)Result will be displayed after the quiz
+6)Leaderboard can be veiewed after the quiz
