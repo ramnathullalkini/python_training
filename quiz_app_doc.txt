@@ -8,3 +8,7 @@ Features of the project include
 4)Negative marking includes for wrong question
 5)Result will be displayed after the quiz
 6)Leaderboard can be veiewed after the quiz
+
+
+Checked By -
+Byre Gowda M
