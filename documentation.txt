@@ -1,0 +1,28 @@
+                          Food_Order_System
+                          
+These Project involves in creating Food order website using django and rest_api frame work
+These project has been built using oly django and rest api frame work
+
+These project mainly consist of one main project which consist of four other apps they are
+1-app_login
+2-food_display
+3-food_order
+4-Booking_app
+
+                              app_login
+app_login app consist of all the  login ,logout and registration features and other simple features like home_page ,contact_page ,about_page.these app includes creating custom user model ,contactus model for storing customer information while contacting the website 
+
+                              food_display
+These app only consist of creating  food model and storing all the data of the food inside model and displaying to the frontend
+
+                              food_order
+These app includes two main features like Cart ,add_to_cart and Order functionalities
+               
+                              Booking_app
+In these app  we have two main functionalties one is creating models for storing the restaurant details in the model and other one booking tabels in restaurant for given date
+
+                              
+ 
+
+                          
+                    
